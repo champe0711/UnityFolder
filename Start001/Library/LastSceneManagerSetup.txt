@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/000000 NEW LAPTOP FILES/Codes/Unity/SecondGame/New Unity Project/Assets/_Scene/Main.unity
+  isLoaded: 1
+  isActive: 1
